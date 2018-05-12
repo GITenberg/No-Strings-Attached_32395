@@ -26,6 +26,8 @@ creator:
     - http://en.wikipedia.org/wiki/Lester_del_Rey
     - http://www.gutenberg.org/ebooks/author/46565
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32395#No-Strings-Attached
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2010-05-16'
 gutenberg_type: Text
